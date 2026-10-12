@@ -1,0 +1,9 @@
+Algorithm,Jobs,Dependencies,Runtime_us,Valid
+Kahn,100,131,58,yes
+DFS,100,131,45,yes
+Kahn,1000,1515,485,yes
+DFS,1000,1515,449,yes
+Kahn,5000,7495,2483,yes
+DFS,5000,7495,2194,yes
+Kahn,10000,14980,5444,yes
+DFS,10000,14980,4432,yes
